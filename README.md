@@ -1,6 +1,4 @@
-# titanic
-Data Science Learning Program 
-
+# Data Science Learning Program 
 
 1.org파일과 ui. titanic.csv를 모두 한 위치에 두고 실행하십시오.
 
